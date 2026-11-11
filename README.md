@@ -10,6 +10,7 @@ I come from finance and business analytics. At **[Praxys Solutions](https://prax
 
 | Project | What I built |
 | :--- | :--- |
+| **[Rekindra](https://github.com/jakeefr/rekindra)** <br> *Co-built with Jakob Werner* | A Hermes Agent plugin, built for the Nous Research Hermes Agent Plugin Hackathon, that recovers material from old files and uses it to create animated 3D scenes. I hardened its file intake and evidence handling, including spreadsheet-formula detection, archive name checks, and keeping rejected files out of the evidence, and prepared the repo for public release. |
 | **Praxys Lead Agent** | A Python and Gemini pipeline that reviews public business listings, websites, and reviews, scores each prospect, and writes the findings to a CRM. |
 | **Columbia Orthopedics** | Machine learning consulting: applied ML models and statistical analysis to orthopedic research data with Columbia University Medical Center. |
 | **Healthcare marketing analytics** | A recurring Power Query and Power BI workflow that combines Google Ads performance with aggregate patient counts to inform weekly budget and campaign decisions. |
