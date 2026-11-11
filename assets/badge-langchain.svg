@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="36" viewBox="0 0 140 36" role="img" aria-label="LangChain">
+  <title>LangChain</title>
+  <rect x="1" y="1" width="138" height="34" rx="8" fill="#2a1a12" stroke="#ff8c42" stroke-width="2"/>
+  <circle cx="18" cy="18" r="4" fill="#ff8c42"/>
+  <text x="32" y="24" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-weight="700" font-size="17" textLength="94" lengthAdjust="spacingAndGlyphs" fill="#ffb27a">LangChain</text>
+</svg>

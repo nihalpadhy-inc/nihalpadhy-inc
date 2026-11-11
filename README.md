@@ -22,6 +22,8 @@ I come from finance and business analytics. At **[Praxys Solutions](https://prax
   <img src="./assets/badge-sql.svg" alt="SQL" height="34">
   <img src="./assets/badge-r.svg" alt="R" height="34">
   <img src="./assets/badge-powerbi.svg" alt="Power BI" height="34">
+  <img src="./assets/badge-databricks.svg" alt="Databricks" height="34">
+  <img src="./assets/badge-langchain.svg" alt="LangChain" height="34">
   <img src="./assets/badge-git.svg" alt="Git" height="34">
 </p>
 
